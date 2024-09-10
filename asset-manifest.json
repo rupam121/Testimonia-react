@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Testimonia-react/static/css/main.480a4ce8.css",
-    "main.js": "/Testimonia-react/static/js/main.f3f91ffb.js",
+    "main.js": "/Testimonia-react/static/js/main.2054fc93.js",
     "static/js/453.1026648f.chunk.js": "/Testimonia-react/static/js/453.1026648f.chunk.js",
     "static/media/slick.svg": "/Testimonia-react/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/Testimonia-react/static/media/slick.a4e97f5a2a64f0ab1323.eot",
@@ -9,11 +9,11 @@
     "static/media/slick.woff": "/Testimonia-react/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Testimonia-react/index.html",
     "main.480a4ce8.css.map": "/Testimonia-react/static/css/main.480a4ce8.css.map",
-    "main.f3f91ffb.js.map": "/Testimonia-react/static/js/main.f3f91ffb.js.map",
+    "main.2054fc93.js.map": "/Testimonia-react/static/js/main.2054fc93.js.map",
     "453.1026648f.chunk.js.map": "/Testimonia-react/static/js/453.1026648f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.480a4ce8.css",
-    "static/js/main.f3f91ffb.js"
+    "static/js/main.2054fc93.js"
   ]
 }
