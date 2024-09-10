@@ -37,7 +37,7 @@ function App() {
 const data = [
   {
     name: `Raj Kumar`,
-    img: `/students/student3.png`,
+    img: `../public/students/student3.png`,
     review: `lorem ipsome is there we all are here to study by the way we are engineer.`
   },
   {
